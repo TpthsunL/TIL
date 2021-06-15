@@ -22,3 +22,7 @@ plt.rc('axes', unicode_minus=False)
 
 # 그래프가 노트북 안에 보이게 하기 위해
 %matplotlib inline
+
+
+2. df["상욱"]["와우"]
+= df.loc[df["상욱"]>10,"와우"]
