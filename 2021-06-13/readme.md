@@ -4,8 +4,8 @@
 
 Python - 3주차
 -	질문 사항
-1.	Describe(include=’object’)시에, 나오는 top row가 뜻하는 것이 무엇인지??
-2.	Df[“embark_lower]=df[“embark_town].str.lower() : 굳이 왜 str을 써야하는지?
+1.	Describe(include=’object’)시에, 나오는 top row가 뜻하는 것이 무엇인지?? 해결!!!
+2.	Df[“embark_lower]=df[“embark_town].str.lower() : 굳이 왜 str을 써야하는지? 해결!!!
 3.	
 -	배운점
 1.	결측치 개수 세는 방법 : df.isnull().sum()
