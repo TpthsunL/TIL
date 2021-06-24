@@ -14,3 +14,6 @@
 ### 2. 결측치가 있는 row를 제거합니다. 
 df_day = df_temp.dropna()
 df_day
+
+
+### 3. drop_duplicates를 통해 중복된 데이터가 있다면 제거합니다. 
