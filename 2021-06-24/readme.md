@@ -17,3 +17,10 @@ df_day
 
 
 ### 3. drop_duplicates를 통해 중복된 데이터가 있다면 제거합니다. 
+
+### 4. 도움말과 소스코드 보기 
+도움말 보기
+-> get_item_list?
+
+소스코드 보기
+-> get_item_list??
