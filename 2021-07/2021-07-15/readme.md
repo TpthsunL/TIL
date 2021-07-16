@@ -3,9 +3,9 @@
 ### 주말준비 = 주말동안 해야할 것 (16~18)
 
 #### 16일 (금요일)
-1. 혼자서 하는 머신러닝 / 딥러닝 (https://www.youtube.com/watch?v=kaCJ-knm8KU&list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX&index=5)
+1. 혼자서 하는 머신러닝 / 딥러닝 (https://www.youtube.com/watch?v=kaCJ-knm8KU&list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX&index=5) 예측모델 부분까지만 일단.
 3. 예측모델 예제 여러개 풀어보기  
-4. 이발
+3. 깃허브 정리하기, 노션 정리하기 
 #### 17일 (토요일)
 1. 텐서플로우 그동안 배운거 복습하기
 2. kbo 데이터 팀프로젝트 만들어 놓고 알고리즘 구상하기
@@ -19,4 +19,4 @@
 ----------하면 좋은 것들--------
 
 1. 머신러닝 깃허브 다 듣기
-2. 
+2. 이발 (월요일 학원 가기 전)
